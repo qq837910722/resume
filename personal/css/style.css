@@ -62,6 +62,9 @@ body{
 .pause {
   position: absolute;
   cursor: pointer;
+  
+}
+.around{
   /* 设置默认样式，开启3d硬件加速 */
     -webkit-transform:translate3d(0,0,0);
     -moz-transform:translate3d(0,0,0);
